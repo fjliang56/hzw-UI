@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a9f01aa-5dda-411f-9d8d-d77e2a737daa" name="更改" comment="创建 icon 组件">
-      <change afterPath="$PROJECT_DIR$/lib/icons/QQ.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icons/bilibili.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icons/taobao.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icons/wechat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icons/zfb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/importIcons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/types/custom.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/icon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/icon.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="3a9f01aa-5dda-411f-9d8d-d77e2a737daa" name="更改" comment="引入 svg 图标" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +47,7 @@
       <updated>1632556878014</updated>
       <workItem from="1632556880243" duration="1632000" />
       <workItem from="1632559198591" duration="124000" />
-      <workItem from="1632559357284" duration="11327000" />
+      <workItem from="1632559357284" duration="12291000" />
     </task>
     <task id="LOCAL-00001" summary="创建package.json">
       <created>1632559418997</created>
@@ -85,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632570265325</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="引入 svg 图标">
+      <created>1632580346602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632580346602</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +99,7 @@
     <MESSAGE value="创建package.json" />
     <MESSAGE value="完成webpack环境搭建" />
     <MESSAGE value="创建 icon 组件" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建 icon 组件" />
+    <MESSAGE value="引入 svg 图标" />
+    <option name="LAST_COMMIT_MESSAGE" value="引入 svg 图标" />
   </component>
 </project>
