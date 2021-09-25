@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a9f01aa-5dda-411f-9d8d-d77e2a737daa" name="更改" comment="完成webpack环境搭建">
-      <change afterPath="$PROJECT_DIR$/lib/icon.tsx" afterDir="false" />
+    <list default="true" id="3a9f01aa-5dda-411f-9d8d-d77e2a737daa" name="更改" comment="创建 icon 组件">
+      <change afterPath="$PROJECT_DIR$/lib/icons/QQ.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/icons/bilibili.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/icons/taobao.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/icons/wechat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/icons/zfb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/importIcons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/types/custom.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/icon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/icon.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +38,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/icons" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="E:\WebStorm 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\饥人谷\hzw\lib\icons" />
+      <recent name="E:\饥人谷\hzw\icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\饥人谷\hzw\lib" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,7 +62,7 @@
       <updated>1632556878014</updated>
       <workItem from="1632556880243" duration="1632000" />
       <workItem from="1632559198591" duration="124000" />
-      <workItem from="1632559357284" duration="5748000" />
+      <workItem from="1632559357284" duration="11327000" />
     </task>
     <task id="LOCAL-00001" summary="创建package.json">
       <created>1632559418997</created>
@@ -58,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632564064903</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="创建 icon 组件">
+      <created>1632570265325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632570265325</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建package.json" />
     <MESSAGE value="完成webpack环境搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成webpack环境搭建" />
+    <MESSAGE value="创建 icon 组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建 icon 组件" />
   </component>
 </project>
