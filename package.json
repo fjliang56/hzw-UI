@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "style-loader": "^3.3.0"
   }
 }
